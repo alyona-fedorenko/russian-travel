@@ -4,6 +4,12 @@
 
 @media screen and (max-width: 768px) {
   .section {
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .section {
     margin-bottom: 88px;
   }
 }
