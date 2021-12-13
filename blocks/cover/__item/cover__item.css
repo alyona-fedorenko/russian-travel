@@ -13,6 +13,7 @@
   color: #fff;
   padding: 33px 16px;
   text-align: center;
+  box-sizing: border-box;
 }
 
 .cover__item::before {
@@ -34,7 +35,7 @@
 
 @media screen and (max-width: 1024px) {
   .cover__item {
-    min-height: 740px;
+    min-height: 640px;
   }
 }
 
